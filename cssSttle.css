@@ -801,6 +801,7 @@ hr {
   /* header */
   header {
     background: #f0eed4;
+    padding-bottom: 20px;
   }
   .container {
     justify-content: center;
@@ -952,7 +953,20 @@ hr {
     font-size: large !important;
     font-weight: 700;
   }
+  #por1-h1{
+    font-size: 60px;
+    font-weight: 700;
+    padding: 0px 135px;
+  }
 
+  #por1-h2 {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 520px) {
+  #por1-h1{
+    padding: 0px 70px;
+  }
 }
 
 @media screen and (max-width: 460px) {
@@ -971,6 +985,7 @@ hr {
     font-size: medium !important;
     font-weight: 500;
   }
+
 }
 
 @media screen and (max-width: 1750px) {
@@ -1005,6 +1020,14 @@ hr {
     bottom: 40px;
     font-size: 25px;
   }
+  #por1-h1{
+    font-size: 60px;
+    font-weight: 700;
+  }
+
+  #por1-h2 {
+    font-size: 40px;
+  }
 }
 
 @media screen and (max-width: 1150px) {
@@ -1026,6 +1049,7 @@ hr {
     bottom: 40px;
     font-size: 22px;
   }
+
 }
 
 @media screen and (max-width: 991px) {
@@ -1141,6 +1165,14 @@ hr {
   #About-por-span3 {
     font-size: 16px;
   }
+  #por1-h1{
+    font-size: 45px;
+    font-weight: 700;
+  }
+
+  #por1-h2 {
+    font-size: 30px;
+  }
 }
 
 @media screen and (max-width: 490px) {
@@ -1153,10 +1185,9 @@ hr {
   }
 
   #por1-h1{
-
+    padding: 0 40px;
     font-size: 50px;
     font-weight: 700;
-    padding: 0px;
   }
 
   #por1-h2 {
@@ -1203,6 +1234,9 @@ hr {
     height: 130px;
     bottom: 50px;
     right: 180px;
+  }
+  #por1-h1{
+    padding: 0;
   }
 }
 @media screen and (max-width: 335px) {
