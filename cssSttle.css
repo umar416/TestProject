@@ -793,6 +793,10 @@ hr {
     flex-direction: column;
     flex-wrap: wrap;
   }
+  
+  #insta{
+    align-self: normal;
+  }
 
   /* header */
   .left-art img,
