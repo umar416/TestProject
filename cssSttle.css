@@ -382,7 +382,7 @@ header {
 }
 
 #Blog-por-cont2-right-div1 {
-  margin: 0 60px 30px;
+  margin: 0 auto 30px;
   width: 90%;
   text-align: left;
 }
@@ -747,7 +747,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 665px) {
   /* PORTFOLIO */
   .portfolio-footer-circle {
     font-size: 14px;
@@ -841,7 +841,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1145px) {
   .Pages-portion-conatiner .icon-holder img {
     width: 300px;
   }
@@ -877,7 +877,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 815px) {
   .Pages-portion-conatiner .icon-holder img {
     width: 200px;
   }
@@ -895,7 +895,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 665px) {
   .Pages-portion-conatiner {
     flex-direction: column;
   }
