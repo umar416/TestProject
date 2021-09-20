@@ -747,7 +747,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 660px) {
   /* PORTFOLIO */
   .portfolio-footer-circle {
     font-size: 14px;
@@ -891,7 +891,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 660px) {
   .Pages-portion-conatiner {
     flex-direction: column;
   }
