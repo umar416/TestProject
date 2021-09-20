@@ -815,7 +815,9 @@ hr {
   #header-btn {
     transform: scale(0.8);
   }
-
+  #about-btn {
+    transform: scale(0.8);
+  }
   .Services-portion-head #Services-por-span1,
   #About-por-span1,
   .Blog-portion-head #Blog-por-span1,
